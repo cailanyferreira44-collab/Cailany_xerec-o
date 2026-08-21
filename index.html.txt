@@ -7,5 +7,6 @@
 <body>
     <h1>Perfil @catsoninstagram</h1>
     <img src="imagens/gato.jpg" />
+<p>Este projeto foi desenvolvido durante a Unidade Curricular Versionamento e Colaboração.</p>
 </body>
 </html>
