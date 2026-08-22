@@ -8,3 +8,5 @@ Tecnologias utilizadas:
 - HTML
 - Git
 - GitHub
+</> Bash
+git pull
