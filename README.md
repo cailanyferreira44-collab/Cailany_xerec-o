@@ -5,8 +5,8 @@ O projeto é uma simples feita em HTML para amantes de gatinhos, contendo imagem
 Aluna: Cailany Ferreira
 
 Tecnologias utilizadas:
-- HTML
-- Git
-- GitHub
+HTML
+Git
+GitHub
 </> Bash
 git pull
